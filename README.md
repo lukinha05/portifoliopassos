@@ -1,1 +1,3 @@
 # portifoliopassos
+Olá, eu me chamo Lucas Passos tenho 16 anos e atualmente estudo no sesi senai em São José Santa catarina, mas eu não sou natural daqui, eu sou de Salvador Bahia e vim para santa catarina em 2016 quando tinha 10 anos de idade, comecei morando na Palhoça  e em amis ou menos um ano me mudei para o Kobrasol, comecei estudando no colegio Maria Luiza de Melo, depois mudei para o colegio alpha e comecei a morar na serraria, atualmente aida moro na serraria e estudo no sesisenai.
+usarei como base para o meu portifolio desse ano o do ano passado, para ficar mais bonito e organizado, 
