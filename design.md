@@ -1,7 +1,7 @@
-### 1° Trimestre atividades
+## 1° Trimestre atividades
 
-## Atividade academia senai 
+### Atividade academia senai 
 https://www.figma.com/file/OxJqgGBW2X1A4lB8RgJoHD/Senai-Gym
 
-## Prova 
+### Prova design 
 https://www.figma.com/file/ErIVYlya1lExDESaDFMcjT/Untitled
