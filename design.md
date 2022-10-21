@@ -19,4 +19,6 @@ private void btnRmvActionPerformed(java.awt.event.ActionEvent evt) {
             exibeLista();
         }
     }
+![image](https://user-images.githubusercontent.com/102531983/197233416-3573435f-173a-44c5-96cb-2d65decdd862.png)
+![image](https://user-images.githubusercontent.com/102531983/197233656-1b259c7e-312b-448f-8786-d1b953de72c8.png)
 
